@@ -51,8 +51,8 @@ Streamlit UI → FastAPI (/chat)
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/yourusername/hr-chatbot.git
-cd hr-chatbot
+git clone [https://github.com/yourusername/hr-chatbot.git](https://github.com/adhiljaseem/ai-hr-assistant.git)
+cd ai-hr-assistant
 ```
 
 ### 2. Set up the environment
