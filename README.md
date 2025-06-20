@@ -61,23 +61,31 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+### 3. Install Ollama (⚠️ Required for local LLM)
+Download and install from: https://ollama.com/download
 
-### 3. Pull LLM (Ollama)
+Test the setup:
+```bash
+ollama run hello
+
+```
+
+### 4. Pull LLM (Ollama)
 ```bash
 ollama pull mistral
 ```
 
-### 4. Build FAISS index
+### 5. Build FAISS index
 ```bash
 python build_index.py
 ```
 
-### 5. Start backend
+### 6. Start backend
 ```bash
 uvicorn chatbot:app --reload
 ```
 
-### 6. Start frontend
+### 7. Start frontend
 ```bash
 streamlit run app.py
 ```
