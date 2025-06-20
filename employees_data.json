@@ -1,0 +1,2248 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Maria Murphy",
+      "email": "lucasrodney@smith-parker.com",
+      "phone_number": "733-221-4188x80592",
+      "location": "Bangalore",
+      "role": "AI/ML Engineer",
+      "skills": [
+        "TensorFlow",
+        "Flask",
+        "AWS"
+      ],
+      "experience_years": 15,
+      "current_projects": [
+        "Social Media Scheduler"
+      ],
+      "past_projects": [
+        "Data Warehouse",
+        "Fraud Detection"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [
+        "Scrum Master",
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "French",
+        "English",
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-10",
+      "join_date": "2020-09-24",
+      "current_salary": 695099,
+      "department": "Engineering",
+      "manager_name": "Brittany White",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 2,
+      "name": "Amanda Diaz",
+      "email": "wbishop@bowers.info",
+      "phone_number": "597.746.8862",
+      "location": "New York",
+      "role": "Data Scientist",
+      "skills": [
+        "Azure",
+        "MongoDB",
+        "GCP",
+        "HuggingFace"
+      ],
+      "experience_years": 12,
+      "current_projects": [
+        "Email Automation Tool"
+      ],
+      "past_projects": [
+        "Sentiment Analyzer",
+        "Smart Contract IDE"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "GCP Associate",
+        "Scrum Master"
+      ],
+      "languages": [
+        "English",
+        "French",
+        "Mandarin"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-11",
+      "join_date": "2018-04-13",
+      "current_salary": 1186657,
+      "department": "Engineering",
+      "manager_name": "Rebecca Taylor",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 3,
+      "name": "John Watson",
+      "email": "mitchellkathryn@cole-palmer.biz",
+      "phone_number": "375-060-6853",
+      "location": "Dubai",
+      "role": "AI/ML Engineer",
+      "skills": [
+        "GCP",
+        "JavaScript",
+        "HuggingFace",
+        "Flask"
+      ],
+      "experience_years": 15,
+      "current_projects": [
+        "Fraud Detection"
+      ],
+      "past_projects": [
+        "ERP Software",
+        "Healthcare Dashboard"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "GCP Associate"
+      ],
+      "languages": [
+        "French"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-24",
+      "join_date": "2019-09-20",
+      "current_salary": 792253,
+      "department": "AI Research",
+      "manager_name": "Brad Walker",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 4,
+      "name": "Sara Santos",
+      "email": "benjaminlowery@horton-taylor.info",
+      "phone_number": "901.043.2898x614",
+      "location": "San Francisco",
+      "role": "QA Engineer",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Django",
+        "Go"
+      ],
+      "experience_years": 2,
+      "current_projects": [
+        "Learning Management System"
+      ],
+      "past_projects": [
+        "Sentiment Analyzer",
+        "Resume Parser"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [],
+      "languages": [
+        "Spanish"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2020-11-20",
+      "current_salary": 2223968,
+      "department": "Data Science",
+      "manager_name": "Bryan Allen",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 5,
+      "name": "Russell Porter",
+      "email": "jennifercarter@mendez.org",
+      "phone_number": "(218)518-8888x06706",
+      "location": "Tokyo",
+      "role": "Full Stack Developer",
+      "skills": [
+        "Flask",
+        "Docker",
+        "TypeScript",
+        "Node.js"
+      ],
+      "experience_years": 2,
+      "current_projects": [
+        "Lead Scoring Engine"
+      ],
+      "past_projects": [
+        "E-commerce Platform",
+        "DevOps Automation"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [
+        "GCP Associate"
+      ],
+      "languages": [
+        "Spanish",
+        "English",
+        "Hindi"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2023-03-30",
+      "current_salary": 1156516,
+      "department": "Engineering",
+      "manager_name": "Mrs. Alexis Kramer",
+      "employee_status": "active"
+    },
+    {
+      "id": 6,
+      "name": "Matthew Garcia",
+      "email": "bradleypayne@hotmail.com",
+      "phone_number": "(772)217-0430",
+      "location": "New York",
+      "role": "Security Engineer",
+      "skills": [
+        "PostgreSQL",
+        "MongoDB",
+        "Vue.js"
+      ],
+      "experience_years": 6,
+      "current_projects": [
+        "Crypto Wallet"
+      ],
+      "past_projects": [
+        "CI/CD Pipeline",
+        "Banking Microservices"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "GCP Associate",
+        "AWS Certified"
+      ],
+      "languages": [
+        "German",
+        "Mandarin",
+        "Spanish"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-09-02",
+      "join_date": "2021-05-01",
+      "current_salary": 1560584,
+      "department": "Engineering",
+      "manager_name": "Stacey Stewart",
+      "employee_status": "active"
+    },
+    {
+      "id": 7,
+      "name": "Virginia Daniels",
+      "email": "mullinsjames@yahoo.com",
+      "phone_number": "001-054-156-6765x27758",
+      "location": "Toronto",
+      "role": "Software Engineer",
+      "skills": [
+        "PostgreSQL",
+        "Selenium",
+        "MongoDB"
+      ],
+      "experience_years": 2,
+      "current_projects": [
+        "Chatbot Framework"
+      ],
+      "past_projects": [
+        "Sales Dashboard",
+        "Social Media Scheduler"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [],
+      "languages": [
+        "Spanish"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-17",
+      "join_date": "2020-09-27",
+      "current_salary": 1909288,
+      "department": "IT Support",
+      "manager_name": "Bradley Coleman",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 8,
+      "name": "Samantha Gardner",
+      "email": "millerdonna@yahoo.com",
+      "phone_number": "962.757.0596x401",
+      "location": "Tokyo",
+      "role": "AI/ML Engineer",
+      "skills": [
+        "JavaScript",
+        "Selenium",
+        "TypeScript",
+        "PyTorch",
+        "Vue.js",
+        "Flask"
+      ],
+      "experience_years": 12,
+      "current_projects": [
+        "Resume Parser"
+      ],
+      "past_projects": [
+        "Smart Contract IDE",
+        "Monitoring System"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "French",
+        "German"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-14",
+      "join_date": "2022-10-16",
+      "current_salary": 2130108,
+      "department": "Product",
+      "manager_name": "Jennifer Palmer",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 9,
+      "name": "Brenda Lawson",
+      "email": "martinezjoel@hotmail.com",
+      "phone_number": "(569)092-7557x192",
+      "location": "Tokyo",
+      "role": "QA Engineer",
+      "skills": [
+        "HuggingFace",
+        "PostgreSQL",
+        "C++",
+        "SQL"
+      ],
+      "experience_years": 2,
+      "current_projects": [
+        "Bug Tracking System"
+      ],
+      "past_projects": [
+        "Bug Tracking System",
+        "ERP Software"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "AWS Certified",
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "English",
+        "French",
+        "Spanish"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-06",
+      "join_date": "2018-03-10",
+      "current_salary": 2432087,
+      "department": "Mobile Development",
+      "manager_name": "Jennifer Banks",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 10,
+      "name": "Allison Lopez",
+      "email": "greenjorge@yahoo.com",
+      "phone_number": "947.312.1727",
+      "location": "Tokyo",
+      "role": "Data Engineer",
+      "skills": [
+        "GCP",
+        "JavaScript",
+        "Django",
+        "Linux",
+        "Go"
+      ],
+      "experience_years": 3,
+      "current_projects": [
+        "Lead Scoring Engine"
+      ],
+      "past_projects": [
+        "Medical Diagnosis Platform",
+        "Data Warehouse"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [
+        "Azure Fundamentals"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2019-09-18",
+      "current_salary": 1803974,
+      "department": "AI Research",
+      "manager_name": "Rita Ponce DVM",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 11,
+      "name": "Krista Roberts",
+      "email": "jenniferho@hotmail.com",
+      "phone_number": "(583)132-3705",
+      "location": "Tokyo",
+      "role": "Backend Developer",
+      "skills": [
+        "Docker",
+        "Selenium",
+        "Vue.js",
+        "Kubernetes"
+      ],
+      "experience_years": 15,
+      "current_projects": [
+        "Sales Dashboard"
+      ],
+      "past_projects": [
+        "ERP Software",
+        "E-commerce Platform"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [],
+      "languages": [
+        "German",
+        "French",
+        "English"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2021-05-17",
+      "current_salary": 897532,
+      "department": "Engineering",
+      "manager_name": "Jackie Lara",
+      "employee_status": "active"
+    },
+    {
+      "id": 12,
+      "name": "Stephen Jones",
+      "email": "xfox@yahoo.com",
+      "phone_number": "001-125-177-8528",
+      "location": "Toronto",
+      "role": "Mobile Developer",
+      "skills": [
+        "AWS",
+        "Node.js",
+        "GCP",
+        "Kubernetes",
+        "TypeScript",
+        "Django"
+      ],
+      "experience_years": 10,
+      "current_projects": [
+        "Chatbot Framework"
+      ],
+      "past_projects": [
+        "Healthcare Dashboard",
+        "DevOps Automation"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "AWS Certified",
+        "Azure Fundamentals"
+      ],
+      "languages": [
+        "French",
+        "German"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2024-11-06",
+      "current_salary": 1618506,
+      "department": "IT Support",
+      "manager_name": "Catherine Burch",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 13,
+      "name": "Sheena Guerra",
+      "email": "fred53@meza-stone.com",
+      "phone_number": "438-424-9818",
+      "location": "Bangalore",
+      "role": "Cloud Engineer",
+      "skills": [
+        "GCP",
+        "SQL",
+        "JavaScript"
+      ],
+      "experience_years": 5,
+      "current_projects": [
+        "Lead Scoring Engine"
+      ],
+      "past_projects": [
+        "Lead Scoring Engine",
+        "CI/CD Pipeline"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "Certified Kubernetes Admin",
+        "AWS Certified"
+      ],
+      "languages": [
+        "French"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-31",
+      "join_date": "2022-10-29",
+      "current_salary": 1856875,
+      "department": "Engineering",
+      "manager_name": "Leslie Carpenter",
+      "employee_status": "active"
+    },
+    {
+      "id": 14,
+      "name": "Michelle Jacobs",
+      "email": "millerstacy@baker.org",
+      "phone_number": "+1-078-447-3647x1027",
+      "location": "Tokyo",
+      "role": "Data Scientist",
+      "skills": [
+        "Vue.js",
+        "Docker",
+        "Kubernetes",
+        "AWS"
+      ],
+      "experience_years": 2,
+      "current_projects": [
+        "E-commerce Platform"
+      ],
+      "past_projects": [
+        "Medical Diagnosis Platform",
+        "Bug Tracking System"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [],
+      "languages": [
+        "French"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2018-05-18",
+      "current_salary": 1716906,
+      "department": "AI Research",
+      "manager_name": "John Peterson",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 15,
+      "name": "Nathan Gross",
+      "email": "xanderson@hotmail.com",
+      "phone_number": "+1-153-714-7321",
+      "location": "Toronto",
+      "role": "Security Engineer",
+      "skills": [
+        "SQL",
+        "Python",
+        "MongoDB"
+      ],
+      "experience_years": 15,
+      "current_projects": [
+        "Chatbot Framework"
+      ],
+      "past_projects": [
+        "Sales Dashboard",
+        "CI/CD Pipeline"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "Scrum Master",
+        "Azure Fundamentals"
+      ],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-06",
+      "join_date": "2017-11-28",
+      "current_salary": 643739,
+      "department": "QA",
+      "manager_name": "Tony Lin",
+      "employee_status": "active"
+    },
+    {
+      "id": 16,
+      "name": "Sean Moore",
+      "email": "james27@hotmail.com",
+      "phone_number": "747.016.8733x950",
+      "location": "New York",
+      "role": "Mobile Developer",
+      "skills": [
+        "Rust",
+        "SQL",
+        "Django"
+      ],
+      "experience_years": 7,
+      "current_projects": [
+        "Crypto Wallet"
+      ],
+      "past_projects": [
+        "Chatbot Framework",
+        "Inventory System"
+      ],
+      "education": "B.Tech Information Technology",
+      "certifications": [
+        "Certified Kubernetes Admin",
+        "GCP Associate"
+      ],
+      "languages": [
+        "Hindi",
+        "English"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-12",
+      "join_date": "2022-07-31",
+      "current_salary": 1670561,
+      "department": "Product",
+      "manager_name": "Johnny Khan",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 17,
+      "name": "Adam Rodriguez",
+      "email": "jessica65@morales.net",
+      "phone_number": "584.168.7849",
+      "location": "London",
+      "role": "QA Engineer",
+      "skills": [
+        "Rust",
+        "JavaScript",
+        "React",
+        "Docker"
+      ],
+      "experience_years": 4,
+      "current_projects": [
+        "Payment Gateway"
+      ],
+      "past_projects": [
+        "Social Media Scheduler",
+        "DevOps Automation"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [],
+      "languages": [
+        "French",
+        "German",
+        "Mandarin"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2023-06-22",
+      "current_salary": 2028440,
+      "department": "IT Support",
+      "manager_name": "Barbara Hester",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 18,
+      "name": "William Grant",
+      "email": "jameshicks@hotmail.com",
+      "phone_number": "0025787298",
+      "location": "London",
+      "role": "Full Stack Developer",
+      "skills": [
+        "C++",
+        "PostgreSQL",
+        "MongoDB",
+        "PyTorch",
+        "Kubernetes",
+        "Docker"
+      ],
+      "experience_years": 10,
+      "current_projects": [
+        "Healthcare Dashboard"
+      ],
+      "past_projects": [
+        "ERP Software",
+        "Crypto Wallet"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [
+        "Scrum Master"
+      ],
+      "languages": [
+        "English",
+        "German"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-09-15",
+      "join_date": "2022-03-02",
+      "current_salary": 1373298,
+      "department": "DevOps",
+      "manager_name": "Timothy Flores",
+      "employee_status": "active"
+    },
+    {
+      "id": 19,
+      "name": "Nancy Evans MD",
+      "email": "thomas05@yahoo.com",
+      "phone_number": "+1-169-409-7499x30972",
+      "location": "Toronto",
+      "role": "AI/ML Engineer",
+      "skills": [
+        "MongoDB",
+        "TypeScript",
+        "Django"
+      ],
+      "experience_years": 11,
+      "current_projects": [
+        "Resume Parser"
+      ],
+      "past_projects": [
+        "Sales Dashboard",
+        "Social Media Scheduler"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "GCP Associate",
+        "AWS Certified"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2022-02-24",
+      "current_salary": 2098028,
+      "department": "Product",
+      "manager_name": "Michelle Hampton",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 20,
+      "name": "Michael Johnson",
+      "email": "andrewedwards@gutierrez.biz",
+      "phone_number": "970.283.8578x65278",
+      "location": "San Francisco",
+      "role": "Data Scientist",
+      "skills": [
+        "MongoDB",
+        "Linux",
+        "Vue.js",
+        "TensorFlow",
+        "Node.js",
+        "GCP"
+      ],
+      "experience_years": 6,
+      "current_projects": [
+        "Food Delivery App"
+      ],
+      "past_projects": [
+        "Inventory System",
+        "Smart Contract IDE"
+      ],
+      "education": "B.Tech Information Technology",
+      "certifications": [
+        "Azure Fundamentals",
+        "AWS Certified"
+      ],
+      "languages": [
+        "German",
+        "Spanish",
+        "English"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2021-12-07",
+      "current_salary": 1291411,
+      "department": "Product",
+      "manager_name": "Hector Ingram",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 21,
+      "name": "Cheryl Wright",
+      "email": "shellyhendrix@yahoo.com",
+      "phone_number": "001-375-758-4419x866",
+      "location": "Tokyo",
+      "role": "Security Engineer",
+      "skills": [
+        "AWS",
+        "C++",
+        "Django",
+        "HuggingFace"
+      ],
+      "experience_years": 3,
+      "current_projects": [
+        "ERP Software"
+      ],
+      "past_projects": [
+        "Food Delivery App",
+        "Fraud Detection"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [],
+      "languages": [
+        "German",
+        "English",
+        "Spanish"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-02",
+      "join_date": "2019-12-18",
+      "current_salary": 1772144,
+      "department": "Mobile Development",
+      "manager_name": "Tina Ballard",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 22,
+      "name": "Tyler Miller",
+      "email": "julie33@hotmail.com",
+      "phone_number": "842-199-3308x330",
+      "location": "New York",
+      "role": "Software Engineer",
+      "skills": [
+        "Linux",
+        "GCP",
+        "Python",
+        "Vue.js",
+        "Kubernetes",
+        "Node.js"
+      ],
+      "experience_years": 4,
+      "current_projects": [
+        "Sales Dashboard"
+      ],
+      "past_projects": [
+        "Learning Management System",
+        "Medical Diagnosis Platform"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [],
+      "languages": [
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-13",
+      "join_date": "2020-05-28",
+      "current_salary": 761826,
+      "department": "DevOps",
+      "manager_name": "Gary Kennedy",
+      "employee_status": "active"
+    },
+    {
+      "id": 23,
+      "name": "Joshua Hickman",
+      "email": "mwoods@yahoo.com",
+      "phone_number": "401-938-0262x06724",
+      "location": "London",
+      "role": "Data Engineer",
+      "skills": [
+        "TensorFlow",
+        "Azure",
+        "React",
+        "Node.js"
+      ],
+      "experience_years": 3,
+      "current_projects": [
+        "Email Automation Tool"
+      ],
+      "past_projects": [
+        "Learning Management System",
+        "Social Media Scheduler"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "Scrum Master",
+        "AWS Certified"
+      ],
+      "languages": [
+        "Spanish",
+        "Hindi"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2017-10-21",
+      "current_salary": 1531552,
+      "department": "IT Support",
+      "manager_name": "Alexandra Bradley",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 24,
+      "name": "Frances Gibson",
+      "email": "melissamcdonald@gmail.com",
+      "phone_number": "527-420-5493",
+      "location": "Bangalore",
+      "role": "DevOps Engineer",
+      "skills": [
+        "Go",
+        "GCP",
+        "HuggingFace",
+        "Django",
+        "MongoDB",
+        "BERT"
+      ],
+      "experience_years": 13,
+      "current_projects": [
+        "Food Delivery App"
+      ],
+      "past_projects": [
+        "Learning Management System",
+        "Inventory System"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "Scrum Master",
+        "GCP Associate"
+      ],
+      "languages": [
+        "Mandarin"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-26",
+      "join_date": "2017-04-16",
+      "current_salary": 890242,
+      "department": "DevOps",
+      "manager_name": "Scott Prince",
+      "employee_status": "active"
+    },
+    {
+      "id": 25,
+      "name": "Angie Caldwell",
+      "email": "thomasboyle@green.info",
+      "phone_number": "001-454-990-4530x17426",
+      "location": "New York",
+      "role": "Security Engineer",
+      "skills": [
+        "Kubernetes",
+        "C++",
+        "Vue.js"
+      ],
+      "experience_years": 3,
+      "current_projects": [
+        "Mobile Chat App"
+      ],
+      "past_projects": [
+        "Monitoring System",
+        "Crypto Wallet"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "AWS Certified"
+      ],
+      "languages": [
+        "French"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-13",
+      "join_date": "2022-09-28",
+      "current_salary": 2455203,
+      "department": "QA",
+      "manager_name": "Tammy Barron",
+      "employee_status": "active"
+    },
+    {
+      "id": 26,
+      "name": "Margaret Shepard",
+      "email": "jeffreyanderson@gmail.com",
+      "phone_number": "956.878.3391x878",
+      "location": "Toronto",
+      "role": "Cloud Engineer",
+      "skills": [
+        "Rust",
+        "Azure",
+        "C++",
+        "GCP",
+        "Python"
+      ],
+      "experience_years": 6,
+      "current_projects": [
+        "Banking Microservices"
+      ],
+      "past_projects": [
+        "Email Automation Tool",
+        "Fraud Detection"
+      ],
+      "education": "B.Tech Information Technology",
+      "certifications": [],
+      "languages": [
+        "English"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-03",
+      "join_date": "2020-10-03",
+      "current_salary": 1201629,
+      "department": "Security",
+      "manager_name": "Angela Elliott",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 27,
+      "name": "Stephanie Harris",
+      "email": "markmeyer@frazier.org",
+      "phone_number": "187.072.8679x0874",
+      "location": "Dubai",
+      "role": "AI/ML Engineer",
+      "skills": [
+        "C++",
+        "Python",
+        "Docker"
+      ],
+      "experience_years": 4,
+      "current_projects": [
+        "DevOps Automation"
+      ],
+      "past_projects": [
+        "Sentiment Analyzer",
+        "Bug Tracking System"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "Scrum Master",
+        "AWS Certified"
+      ],
+      "languages": [
+        "Hindi",
+        "Spanish"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2016-07-07",
+      "current_salary": 855534,
+      "department": "Engineering",
+      "manager_name": "Jennifer Velasquez",
+      "employee_status": "active"
+    },
+    {
+      "id": 28,
+      "name": "Amber Cooper",
+      "email": "michaelcesar@johnson-ortiz.com",
+      "phone_number": "001-656-766-1825x12868",
+      "location": "Dubai",
+      "role": "Frontend Developer",
+      "skills": [
+        "PostgreSQL",
+        "TensorFlow",
+        "Flask"
+      ],
+      "experience_years": 1,
+      "current_projects": [
+        "Fraud Detection"
+      ],
+      "past_projects": [
+        "Crypto Wallet",
+        "CI/CD Pipeline"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "GCP Associate",
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "English",
+        "Mandarin"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-09-16",
+      "join_date": "2019-03-04",
+      "current_salary": 1339908,
+      "department": "AI Research",
+      "manager_name": "William Davenport",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 29,
+      "name": "Julie Ball",
+      "email": "pmorrow@yahoo.com",
+      "phone_number": "(243)106-9033x119",
+      "location": "New York",
+      "role": "Cloud Engineer",
+      "skills": [
+        "C++",
+        "Linux",
+        "Flask",
+        "TypeScript",
+        "Python"
+      ],
+      "experience_years": 7,
+      "current_projects": [
+        "Medical Diagnosis Platform"
+      ],
+      "past_projects": [
+        "Healthcare Dashboard",
+        "Fraud Detection"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "German"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-20",
+      "join_date": "2015-11-08",
+      "current_salary": 1323103,
+      "department": "AI Research",
+      "manager_name": "Kyle Warner",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 30,
+      "name": "Andrew Gonzales",
+      "email": "taylorvictoria@cabrera.org",
+      "phone_number": "995-342-8364x40892",
+      "location": "London",
+      "role": "Full Stack Developer",
+      "skills": [
+        "GCP",
+        "Flask",
+        "AWS"
+      ],
+      "experience_years": 14,
+      "current_projects": [
+        "Fraud Detection"
+      ],
+      "past_projects": [
+        "Payment Gateway",
+        "Learning Management System"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "Scrum Master",
+        "GCP Associate"
+      ],
+      "languages": [
+        "English"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2016-04-17",
+      "current_salary": 2101655,
+      "department": "Security",
+      "manager_name": "Jessica Simpson",
+      "employee_status": "active"
+    },
+    {
+      "id": 31,
+      "name": "Megan Floyd",
+      "email": "trussell@yahoo.com",
+      "phone_number": "(873)342-7086",
+      "location": "San Francisco",
+      "role": "Data Scientist",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Linux"
+      ],
+      "experience_years": 7,
+      "current_projects": [
+        "Sentiment Analyzer"
+      ],
+      "past_projects": [
+        "Medical Diagnosis Platform",
+        "Mobile Chat App"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [
+        "GCP Associate",
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-22",
+      "join_date": "2021-04-29",
+      "current_salary": 1172976,
+      "department": "Product",
+      "manager_name": "Kristin Anderson",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 32,
+      "name": "Gary Miller",
+      "email": "christopher30@yahoo.com",
+      "phone_number": "(990)139-8373x5403",
+      "location": "Dubai",
+      "role": "Mobile Developer",
+      "skills": [
+        "Node.js",
+        "PostgreSQL",
+        "Selenium",
+        "GCP",
+        "TypeScript"
+      ],
+      "experience_years": 9,
+      "current_projects": [
+        "Mobile Chat App"
+      ],
+      "past_projects": [
+        "Chatbot Framework",
+        "Bug Tracking System"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [],
+      "languages": [
+        "Mandarin",
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-17",
+      "join_date": "2019-08-07",
+      "current_salary": 1743942,
+      "department": "DevOps",
+      "manager_name": "Tonya Wilson",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 33,
+      "name": "Melissa Padilla",
+      "email": "andrearowe@yahoo.com",
+      "phone_number": "854.458.7717x535",
+      "location": "New York",
+      "role": "QA Engineer",
+      "skills": [
+        "Kubernetes",
+        "MongoDB",
+        "TensorFlow",
+        "Selenium",
+        "SQL"
+      ],
+      "experience_years": 3,
+      "current_projects": [
+        "Email Automation Tool"
+      ],
+      "past_projects": [
+        "Monitoring System",
+        "ERP Software"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [],
+      "languages": [
+        "Spanish",
+        "Mandarin",
+        "French"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2023-08-12",
+      "current_salary": 1175784,
+      "department": "Engineering",
+      "manager_name": "Angel Shields",
+      "employee_status": "active"
+    },
+    {
+      "id": 34,
+      "name": "Juan Silva",
+      "email": "elijah53@yahoo.com",
+      "phone_number": "001-378-547-7725",
+      "location": "Berlin",
+      "role": "Backend Developer",
+      "skills": [
+        "TensorFlow",
+        "HuggingFace",
+        "TypeScript",
+        "MongoDB"
+      ],
+      "experience_years": 1,
+      "current_projects": [
+        "DevOps Automation"
+      ],
+      "past_projects": [
+        "Chatbot Framework",
+        "Data Warehouse"
+      ],
+      "education": "B.Tech Information Technology",
+      "certifications": [
+        "Scrum Master"
+      ],
+      "languages": [
+        "English",
+        "Mandarin",
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-12",
+      "join_date": "2017-12-12",
+      "current_salary": 2024096,
+      "department": "Security",
+      "manager_name": "Nathan Freeman",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 35,
+      "name": "Tina Warren DVM",
+      "email": "duranrobert@hall.net",
+      "phone_number": "509.977.0088x600",
+      "location": "New York",
+      "role": "Data Engineer",
+      "skills": [
+        "Linux",
+        "GCP",
+        "Azure",
+        "AWS"
+      ],
+      "experience_years": 11,
+      "current_projects": [
+        "Mobile Chat App"
+      ],
+      "past_projects": [
+        "Data Warehouse",
+        "Banking Microservices"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [
+        "GCP Associate",
+        "Scrum Master"
+      ],
+      "languages": [
+        "French",
+        "Mandarin",
+        "English"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-22",
+      "join_date": "2024-09-08",
+      "current_salary": 1148985,
+      "department": "DevOps",
+      "manager_name": "Denise Madden",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 36,
+      "name": "Melissa Jordan",
+      "email": "hullalice@lee.com",
+      "phone_number": "(461)567-9334x101",
+      "location": "Tokyo",
+      "role": "Security Engineer",
+      "skills": [
+        "Go",
+        "JavaScript",
+        "React",
+        "C++",
+        "MongoDB",
+        "Node.js"
+      ],
+      "experience_years": 15,
+      "current_projects": [
+        "Email Automation Tool"
+      ],
+      "past_projects": [
+        "Monitoring System",
+        "Chatbot Framework"
+      ],
+      "education": "B.Tech Information Technology",
+      "certifications": [
+        "Certified Kubernetes Admin",
+        "AWS Certified"
+      ],
+      "languages": [
+        "Mandarin",
+        "Spanish",
+        "German"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-24",
+      "join_date": "2015-10-04",
+      "current_salary": 2385435,
+      "department": "Data Science",
+      "manager_name": "James Alvarez",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 37,
+      "name": "Angela Bruce",
+      "email": "jacobsonsamantha@gmail.com",
+      "phone_number": "974.014.8902",
+      "location": "London",
+      "role": "Cloud Engineer",
+      "skills": [
+        "JavaScript",
+        "Go",
+        "TypeScript",
+        "React"
+      ],
+      "experience_years": 4,
+      "current_projects": [
+        "Medical Diagnosis Platform"
+      ],
+      "past_projects": [
+        "E-commerce Platform",
+        "ERP Software"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "Certified Kubernetes Admin",
+        "Scrum Master"
+      ],
+      "languages": [
+        "Hindi",
+        "Mandarin",
+        "English"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2015-08-17",
+      "current_salary": 737883,
+      "department": "DevOps",
+      "manager_name": "Emily Ali",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 38,
+      "name": "Michelle Sanders",
+      "email": "francisco39@rhodes-fernandez.biz",
+      "phone_number": "001-218-501-6315x99965",
+      "location": "Toronto",
+      "role": "Mobile Developer",
+      "skills": [
+        "React",
+        "AWS",
+        "PyTorch"
+      ],
+      "experience_years": 2,
+      "current_projects": [
+        "Monitoring System"
+      ],
+      "past_projects": [
+        "Monitoring System",
+        "Lead Scoring Engine"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "GCP Associate"
+      ],
+      "languages": [
+        "German",
+        "Mandarin",
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-09-02",
+      "join_date": "2017-12-01",
+      "current_salary": 2210154,
+      "department": "Data Science",
+      "manager_name": "Donald Riddle",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 39,
+      "name": "Juan Bennett",
+      "email": "nmiller@yates-marquez.com",
+      "phone_number": "262-655-1104x754",
+      "location": "New York",
+      "role": "Cloud Engineer",
+      "skills": [
+        "Kubernetes",
+        "Node.js",
+        "AWS",
+        "Selenium"
+      ],
+      "experience_years": 4,
+      "current_projects": [
+        "ERP Software"
+      ],
+      "past_projects": [
+        "Crypto Wallet",
+        "Food Delivery App"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [
+        "GCP Associate"
+      ],
+      "languages": [
+        "Mandarin",
+        "Spanish",
+        "Hindi"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2023-10-24",
+      "current_salary": 1910766,
+      "department": "DevOps",
+      "manager_name": "Brandon Jordan",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 40,
+      "name": "Jennifer Johnson",
+      "email": "carlsonkristen@yahoo.com",
+      "phone_number": "4661839826",
+      "location": "Berlin",
+      "role": "Data Engineer",
+      "skills": [
+        "Node.js",
+        "HuggingFace",
+        "TensorFlow",
+        "BERT"
+      ],
+      "experience_years": 15,
+      "current_projects": [
+        "Social Media Scheduler"
+      ],
+      "past_projects": [
+        "Sales Dashboard",
+        "CI/CD Pipeline"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [],
+      "languages": [
+        "English"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2024-12-09",
+      "current_salary": 1945225,
+      "department": "IT Support",
+      "manager_name": "Derrick Adams",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 41,
+      "name": "Jeffrey Fisher",
+      "email": "wardsheryl@hotmail.com",
+      "phone_number": "+1-799-371-2406x5965",
+      "location": "Toronto",
+      "role": "Data Engineer",
+      "skills": [
+        "PostgreSQL",
+        "PyTorch",
+        "Flask"
+      ],
+      "experience_years": 5,
+      "current_projects": [
+        "Fraud Detection"
+      ],
+      "past_projects": [
+        "Food Delivery App",
+        "Medical Diagnosis Platform"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "Scrum Master",
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "English",
+        "German"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2017-12-12",
+      "current_salary": 931518,
+      "department": "Security",
+      "manager_name": "Jeffrey Colon",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 42,
+      "name": "Larry Dominguez",
+      "email": "gregory65@yahoo.com",
+      "phone_number": "001-793-564-6519x3982",
+      "location": "Bangalore",
+      "role": "QA Engineer",
+      "skills": [
+        "AWS",
+        "Selenium",
+        "BERT",
+        "GCP"
+      ],
+      "experience_years": 7,
+      "current_projects": [
+        "DevOps Automation"
+      ],
+      "past_projects": [
+        "Learning Management System",
+        "ERP Software"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "AWS Certified",
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "French"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-25",
+      "join_date": "2017-10-12",
+      "current_salary": 856947,
+      "department": "DevOps",
+      "manager_name": "Krista Benton",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 43,
+      "name": "Christine Salinas",
+      "email": "ichambers@turner.biz",
+      "phone_number": "(179)796-8868x0589",
+      "location": "Berlin",
+      "role": "Frontend Developer",
+      "skills": [
+        "Kubernetes",
+        "Azure",
+        "TensorFlow"
+      ],
+      "experience_years": 7,
+      "current_projects": [
+        "Data Warehouse"
+      ],
+      "past_projects": [
+        "Payment Gateway",
+        "Sales Dashboard"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "Certified Kubernetes Admin",
+        "GCP Associate"
+      ],
+      "languages": [
+        "French"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2023-04-27",
+      "current_salary": 1679456,
+      "department": "Security",
+      "manager_name": "Angela Mack",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 44,
+      "name": "Lonnie Hart",
+      "email": "tammy61@gmail.com",
+      "phone_number": "438-889-9375",
+      "location": "San Francisco",
+      "role": "Frontend Developer",
+      "skills": [
+        "Linux",
+        "MongoDB",
+        "Rust",
+        "Go",
+        "Django",
+        "GCP"
+      ],
+      "experience_years": 1,
+      "current_projects": [
+        "Healthcare Dashboard"
+      ],
+      "past_projects": [
+        "Food Delivery App",
+        "Medical Diagnosis Platform"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "Scrum Master",
+        "Certified Kubernetes Admin"
+      ],
+      "languages": [
+        "English",
+        "German",
+        "French"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-29",
+      "join_date": "2021-07-03",
+      "current_salary": 880881,
+      "department": "DevOps",
+      "manager_name": "Raymond Chapman",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 45,
+      "name": "Zachary Webb",
+      "email": "fknapp@gmail.com",
+      "phone_number": "001-254-573-8757x1775",
+      "location": "London",
+      "role": "Backend Developer",
+      "skills": [
+        "Java",
+        "Django",
+        "Flask",
+        "Go",
+        "GCP",
+        "BERT"
+      ],
+      "experience_years": 5,
+      "current_projects": [
+        "Chatbot Framework"
+      ],
+      "past_projects": [
+        "Inventory System",
+        "Crypto Wallet"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "Certified Kubernetes Admin",
+        "AWS Certified"
+      ],
+      "languages": [
+        "English"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-17",
+      "join_date": "2023-12-24",
+      "current_salary": 1426075,
+      "department": "QA",
+      "manager_name": "Andrew Page",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 46,
+      "name": "Maria Byrd",
+      "email": "zacharyarnold@castro-mullen.com",
+      "phone_number": "(226)609-3796x6033",
+      "location": "Bangalore",
+      "role": "Data Engineer",
+      "skills": [
+        "Linux",
+        "Java",
+        "Vue.js",
+        "BERT",
+        "React",
+        "AWS"
+      ],
+      "experience_years": 13,
+      "current_projects": [
+        "Medical Diagnosis Platform"
+      ],
+      "past_projects": [
+        "Crypto Wallet",
+        "Monitoring System"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "Azure Fundamentals",
+        "GCP Associate"
+      ],
+      "languages": [
+        "Mandarin",
+        "Spanish"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-15",
+      "join_date": "2015-11-07",
+      "current_salary": 940791,
+      "department": "Mobile Development",
+      "manager_name": "Michael Flynn",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 47,
+      "name": "Shane Lopez",
+      "email": "stephenbaker@yahoo.com",
+      "phone_number": "596.969.1557x92499",
+      "location": "London",
+      "role": "Cloud Engineer",
+      "skills": [
+        "Selenium",
+        "Django",
+        "Kubernetes",
+        "PostgreSQL",
+        "Python",
+        "GCP"
+      ],
+      "experience_years": 6,
+      "current_projects": [
+        "Lead Scoring Engine"
+      ],
+      "past_projects": [
+        "Banking Microservices",
+        "Smart Contract IDE"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "AWS Certified"
+      ],
+      "languages": [
+        "French",
+        "Spanish",
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-09-10",
+      "join_date": "2025-04-15",
+      "current_salary": 2112885,
+      "department": "Engineering",
+      "manager_name": "Cesar Wilson",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 48,
+      "name": "James Thomas",
+      "email": "kcarlson@yahoo.com",
+      "phone_number": "(278)282-7422x57905",
+      "location": "Toronto",
+      "role": "Full Stack Developer",
+      "skills": [
+        "Java",
+        "Django",
+        "Selenium",
+        "JavaScript"
+      ],
+      "experience_years": 4,
+      "current_projects": [
+        "E-commerce Platform"
+      ],
+      "past_projects": [
+        "Monitoring System",
+        "Sales Dashboard"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [],
+      "languages": [
+        "German",
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-18",
+      "join_date": "2020-08-29",
+      "current_salary": 1460623,
+      "department": "Cloud Services",
+      "manager_name": "Kari Lee",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 49,
+      "name": "Kathy Simpson",
+      "email": "cmckinney@yahoo.com",
+      "phone_number": "(190)340-4384",
+      "location": "Berlin",
+      "role": "Cloud Engineer",
+      "skills": [
+        "Flask",
+        "AWS",
+        "HuggingFace",
+        "PostgreSQL"
+      ],
+      "experience_years": 9,
+      "current_projects": [
+        "Inventory System"
+      ],
+      "past_projects": [
+        "Sales Dashboard",
+        "Payment Gateway"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "Certified Kubernetes Admin",
+        "Azure Fundamentals"
+      ],
+      "languages": [
+        "German",
+        "Spanish",
+        "French"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-04",
+      "join_date": "2021-12-30",
+      "current_salary": 1003207,
+      "department": "AI Research",
+      "manager_name": "Jim Newton",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 50,
+      "name": "Ashley Wilson",
+      "email": "wolfscott@gmail.com",
+      "phone_number": "(134)074-5171x33959",
+      "location": "Tokyo",
+      "role": "DevOps Engineer",
+      "skills": [
+        "Selenium",
+        "PostgreSQL",
+        "AWS",
+        "GCP"
+      ],
+      "experience_years": 9,
+      "current_projects": [
+        "Bug Tracking System"
+      ],
+      "past_projects": [
+        "Mobile Chat App",
+        "Food Delivery App"
+      ],
+      "education": "B.Sc. Computer Science",
+      "certifications": [
+        "Azure Fundamentals",
+        "Scrum Master"
+      ],
+      "languages": [
+        "Spanish",
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-07-25",
+      "join_date": "2023-11-22",
+      "current_salary": 1209123,
+      "department": "Engineering",
+      "manager_name": "Carol Taylor",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 51,
+      "name": "Renee Hudson",
+      "email": "mariopadilla@yahoo.com",
+      "phone_number": "001-481-260-4223",
+      "location": "London",
+      "role": "AI/ML Engineer",
+      "skills": [
+        "BERT",
+        "PostgreSQL",
+        "Go",
+        "Flask",
+        "Docker"
+      ],
+      "experience_years": 15,
+      "current_projects": [
+        "Sentiment Analyzer"
+      ],
+      "past_projects": [
+        "Email Automation Tool",
+        "Mobile Chat App"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [],
+      "languages": [
+        "German",
+        "Mandarin",
+        "Hindi"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2018-12-24",
+      "current_salary": 1108471,
+      "department": "Engineering",
+      "manager_name": "Frank Wright",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 52,
+      "name": "Kenneth Adams MD",
+      "email": "schultznicole@gmail.com",
+      "phone_number": "(845)775-9017x5186",
+      "location": "Bangalore",
+      "role": "Backend Developer",
+      "skills": [
+        "SQL",
+        "AWS",
+        "Selenium"
+      ],
+      "experience_years": 8,
+      "current_projects": [
+        "Banking Microservices"
+      ],
+      "past_projects": [
+        "Lead Scoring Engine",
+        "Learning Management System"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [],
+      "languages": [
+        "Hindi",
+        "French",
+        "Mandarin"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2022-02-23",
+      "current_salary": 1601282,
+      "department": "AI Research",
+      "manager_name": "Jeffrey Lewis",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 53,
+      "name": "Drew Kelley",
+      "email": "rkramer@williams.info",
+      "phone_number": "1277063242",
+      "location": "San Francisco",
+      "role": "Frontend Developer",
+      "skills": [
+        "Flask",
+        "BERT",
+        "Java",
+        "Node.js"
+      ],
+      "experience_years": 7,
+      "current_projects": [
+        "Payment Gateway"
+      ],
+      "past_projects": [
+        "Healthcare Dashboard",
+        "Inventory System"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [],
+      "languages": [
+        "Spanish",
+        "English",
+        "Mandarin"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-08-02",
+      "join_date": "2020-01-13",
+      "current_salary": 1225773,
+      "department": "IT Support",
+      "manager_name": "Sherri Davis",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 54,
+      "name": "Jacob Mckee",
+      "email": "sanderskevin@fischer.com",
+      "phone_number": "3712938700",
+      "location": "London",
+      "role": "DevOps Engineer",
+      "skills": [
+        "PyTorch",
+        "Flask",
+        "Linux",
+        "PostgreSQL",
+        "React",
+        "BERT"
+      ],
+      "experience_years": 8,
+      "current_projects": [
+        "Mobile Chat App"
+      ],
+      "past_projects": [
+        "Resume Parser",
+        "Banking Microservices"
+      ],
+      "education": "B.Tech Information Technology",
+      "certifications": [],
+      "languages": [
+        "French",
+        "Spanish",
+        "Hindi"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2021-08-06",
+      "current_salary": 629536,
+      "department": "QA",
+      "manager_name": "Ruth Mcneil",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 55,
+      "name": "Karen Perez",
+      "email": "garciamichael@taylor-ayala.com",
+      "phone_number": "+1-218-909-2753x2697",
+      "location": "Berlin",
+      "role": "Data Engineer",
+      "skills": [
+        "SQL",
+        "Linux",
+        "AWS",
+        "C++",
+        "Azure",
+        "JavaScript"
+      ],
+      "experience_years": 3,
+      "current_projects": [
+        "DevOps Automation"
+      ],
+      "past_projects": [
+        "Medical Diagnosis Platform",
+        "Sales Dashboard"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [],
+      "languages": [
+        "French",
+        "Hindi"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2022-08-26",
+      "current_salary": 1536872,
+      "department": "DevOps",
+      "manager_name": "Angelica Garcia",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 56,
+      "name": "Janet Richmond",
+      "email": "johnnewman@gmail.com",
+      "phone_number": "+1-999-404-3898",
+      "location": "San Francisco",
+      "role": "DevOps Engineer",
+      "skills": [
+        "Selenium",
+        "Rust",
+        "Java",
+        "HuggingFace",
+        "JavaScript"
+      ],
+      "experience_years": 8,
+      "current_projects": [
+        "Food Delivery App"
+      ],
+      "past_projects": [
+        "Payment Gateway",
+        "Inventory System"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "Certified Kubernetes Admin",
+        "AWS Certified"
+      ],
+      "languages": [
+        "Spanish",
+        "German",
+        "Hindi"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-09-09",
+      "join_date": "2017-07-24",
+      "current_salary": 1059545,
+      "department": "Data Science",
+      "manager_name": "James Lucas",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 57,
+      "name": "Brian Porter MD",
+      "email": "sarah26@fisher.info",
+      "phone_number": "001-109-104-3006x84866",
+      "location": "Dubai",
+      "role": "Security Engineer",
+      "skills": [
+        "SQL",
+        "Selenium",
+        "Flask",
+        "PostgreSQL",
+        "Vue.js"
+      ],
+      "experience_years": 9,
+      "current_projects": [
+        "Lead Scoring Engine"
+      ],
+      "past_projects": [
+        "Resume Parser",
+        "Learning Management System"
+      ],
+      "education": "M.Sc. Data Science",
+      "certifications": [
+        "Azure Fundamentals",
+        "AWS Certified"
+      ],
+      "languages": [
+        "French",
+        "Mandarin",
+        "Spanish"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2019-07-16",
+      "current_salary": 763793,
+      "department": "IT Support",
+      "manager_name": "Angela Herrera",
+      "employee_status": "active"
+    },
+    {
+      "id": 58,
+      "name": "Eric Dixon",
+      "email": "amandamyers@hines.com",
+      "phone_number": "001-630-316-1799x042",
+      "location": "Bangalore",
+      "role": "Data Engineer",
+      "skills": [
+        "Node.js",
+        "AWS",
+        "Linux",
+        "MongoDB"
+      ],
+      "experience_years": 2,
+      "current_projects": [
+        "Lead Scoring Engine"
+      ],
+      "past_projects": [
+        "Resume Parser",
+        "Email Automation Tool"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [
+        "AWS Certified"
+      ],
+      "languages": [
+        "French",
+        "English",
+        "German"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2018-01-23",
+      "current_salary": 876707,
+      "department": "Cloud Services",
+      "manager_name": "Michael Miles",
+      "employee_status": "on leave"
+    },
+    {
+      "id": 59,
+      "name": "Gregory Holmes PhD",
+      "email": "nathanbrady@yahoo.com",
+      "phone_number": "001-105-648-1491x7785",
+      "location": "San Francisco",
+      "role": "Cloud Engineer",
+      "skills": [
+        "HuggingFace",
+        "Kubernetes",
+        "BERT",
+        "Python",
+        "Azure",
+        "Docker"
+      ],
+      "experience_years": 14,
+      "current_projects": [
+        "E-commerce Platform"
+      ],
+      "past_projects": [
+        "Bug Tracking System",
+        "Resume Parser"
+      ],
+      "education": "Ph.D. Artificial Intelligence",
+      "certifications": [],
+      "languages": [
+        "French"
+      ],
+      "availability_status": "unavailable",
+      "availability_date": "2025-09-07",
+      "join_date": "2018-04-03",
+      "current_salary": 1322529,
+      "department": "Product",
+      "manager_name": "Scott Jackson",
+      "employee_status": "resigned"
+    },
+    {
+      "id": 60,
+      "name": "Brian Berry",
+      "email": "joycesmith@sanchez.com",
+      "phone_number": "(220)863-5365x4195",
+      "location": "New York",
+      "role": "AI/ML Engineer",
+      "skills": [
+        "Kubernetes",
+        "SQL",
+        "Node.js"
+      ],
+      "experience_years": 13,
+      "current_projects": [
+        "DevOps Automation"
+      ],
+      "past_projects": [
+        "Learning Management System",
+        "Fraud Detection"
+      ],
+      "education": "MBA IT Management",
+      "certifications": [
+        "Scrum Master"
+      ],
+      "languages": [
+        "French",
+        "German"
+      ],
+      "availability_status": "available",
+      "availability_date": "2025-06-20",
+      "join_date": "2018-02-21",
+      "current_salary": 768296,
+      "department": "Cloud Services",
+      "manager_name": "Michael Williams",
+      "employee_status": "active"
+    }
+  ]
+}
