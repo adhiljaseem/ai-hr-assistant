@@ -33,11 +33,10 @@ with open("employee_metadata.json", "r") as f:
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
-# Utility: embed the input query
+
 def embed_query(text: str):
     return model.encode([text])[0].astype("float32")
 
-# Utility: call Ollama LLM locally
 def call_ollama(prompt, model_name="mistral"):
     try:
         response = requests.post(
@@ -49,13 +48,11 @@ def call_ollama(prompt, model_name="mistral"):
     except Exception as e:
         return f"❌ Error contacting LLM: {e}"
 
-# Extract number (e.g. "give me 10 employees")
 def extract_top_k(query: str, default: int = 1, max_k: int = 60):
     numbers = re.findall(r"\b\d+\b", query)
     return min(int(numbers[0]), max_k) if numbers else default
 
 
-# Schema
 class ChatRequest(BaseModel):
     query: str
 
@@ -85,12 +82,9 @@ class Employee(BaseModel):
 @app.post("/chat")
 async def chat(request: ChatRequest):
     query = request.query.strip()
-
-    # 🔐 Edge Case: empty or too short
     if not query or len(query) < 3:
         return {"response": "❌ Please enter a valid query so I can assist you.", "matches": []}
 
-    # 🔐 Edge Case: gibberish input
     if not re.fullmatch(r"[a-zA-Z0-9\s\-\.\,\?\!]+", query) or not any(char.isalpha() for char in query):
         return {
             "response": "🤖 That doesn’t look like a valid question. Try something like: *'Find React developers in Berlin'*",
@@ -99,7 +93,6 @@ async def chat(request: ChatRequest):
 
     query_lower = query.lower()
 
-    # 🔍 Match employee name list queries
     if "employee names" in query_lower or \
        "list employees" in query_lower or \
        ("list" in query_lower and "employees" in query_lower) or \
@@ -113,20 +106,16 @@ async def chat(request: ChatRequest):
             "matches": metadata[:k]
         }
 
-    # 🔍 FAISS retrieval
     k = extract_top_k(query_lower, default=2, max_k=len(metadata))
     q_emb = embed_query(query_lower)
     D, I = index.search(np.array([q_emb]), k=k)
     top_employees = [metadata[i] for i in I[0] if i < len(metadata)]
 
-    # 🛑 No matches
     if not top_employees:
         return {
             "response": "😕 I couldn't find any employees matching your request. Try using different keywords or check your spelling.",
             "matches": []
         }
-
-    # 🎯 Direct info match
     contact_fields = {
         "email": "email",
         "phone": "phone_number",
@@ -149,14 +138,12 @@ async def chat(request: ChatRequest):
                         "matches": [emp]
                     }
 
-    # 📢 Personal info asked but no name
     if any(key in query_lower for key in contact_fields):
         return {
             "response": "Please specify which employee you're referring to, so I can look up their contact details.",
             "matches": []
         }
 
-    # 🧠 Construct prompt
     prompt = f"You are an HR assistant. The user asked:\n'{query}'\n\nHere are the top matches:\n\n"
     for emp in top_employees:
         prompt += (
@@ -165,8 +152,6 @@ async def chat(request: ChatRequest):
             f"Available from {emp['availability_date']}.\n\n"
         )
     prompt += "Respond helpfully and clearly."
-
-    # 🧠 LLM response
     answer = call_ollama(prompt)
 
     return {

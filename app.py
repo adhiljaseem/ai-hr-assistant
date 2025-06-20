@@ -1,31 +1,27 @@
 import streamlit as st
 import requests
 
-# Page configuration
+
 st.set_page_config(page_title="HR Chatbot", page_icon="🤖", layout="centered")
 st.title("🤖 HR Chatbot Assistant")
 
-# Session state initialization
 if "messages" not in st.session_state:
     st.session_state.messages = []
     st.session_state.page = 1
     st.session_state.match_buffer = []
 
-# Add welcome message if first time
 if not st.session_state.messages:
     st.session_state.messages.append({
         "role": "assistant",
         "content": "👋 Hello! I’m your **HR Assistant**.\n\nAsk me anything about employees, skills, availability, or who might be best for a project."
     })
-
-# Sidebar with clear option
 with st.sidebar:
     st.header("🧹 Chat Options")
     if st.button("Clear Chat History"):
         st.session_state.clear()
-        st.rerun()  # ✅ New supported rerun method
-
-# Display previous chat messages
+        st.rerun()  
+        
+        
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
@@ -62,7 +58,6 @@ if user_input := st.chat_input("Ask about employees, skills, or availability..."
                 st.error(error_msg)
                 st.session_state.messages.append({"role": "assistant", "content": error_msg})
 
-# Show matched employees (optional)
 if st.session_state.match_buffer:
     with st.expander("👥 View Matched Employees", expanded=True):
         per_page = 5
@@ -81,7 +76,6 @@ if st.session_state.match_buffer:
                 ---
             """)
 
-        # Load More button if more results exist
         if end < total:
             if st.button("🔽 Load More"):
                 st.session_state.page += 1
